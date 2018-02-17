@@ -1,0 +1,2 @@
+# shelteerr
+Shelter discord bot
